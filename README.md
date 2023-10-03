@@ -4,7 +4,7 @@
 - 🦊 I'm currently working on [MetaMask Snaps](https://metamask.io/snaps/)
   - You can find me around the [official discussion board](https://github.com/MetaMask/snaps-monorepo/discussions)
   - Here's my [development guide](https://github.com/MetaMask/snaps-monorepo/discussions/675) to get you started building your own snaps
-  - You can also try a fun little snap I made, the [Mystery Snap](https://github.com/Montoya/random-snap)
+  - You can watch the presentation I made at Permissionless II for the launch of Snaps *[Building a Universal Web3 Interface](https://vimeo.com/864943019)*, or read my article in the Defiant *[Making the Wallet Personal](https://thedefiant.io/making-the-wallet-personal)*
 - 📔 You can find my portfolio at [christianmontoya.com](https://christianmontoya.com/)
 - 🎨 I have more fun projects linked from [homerow.club](https://homerow.club/)
 - 💬 I share my thoughts often at [Twitter](https://twitter.com/MidwitMilhouse) and blog at [Tumblr](https://tumblr.christianmontoya.com/)
