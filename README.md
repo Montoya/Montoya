@@ -7,6 +7,6 @@
   - You can watch the presentation I made at Permissionless II for the launch of Snaps *[Building a Universal Web3 Interface](https://vimeo.com/864943019)*, or read my article in the Defiant *[Making the Wallet Personal](https://thedefiant.io/making-the-wallet-personal)*
 - 📔 You can find my portfolio at [christianmontoya.com](https://christianmontoya.com/)
 - 🎨 I have more fun projects linked from [homerow.club](https://homerow.club/)
-- 💬 I share my thoughts often at [Twitter](https://twitter.com/MidwitMilhouse) and [Warpcast](https://warpcast.com/m0nt0y4)
+- 💬 I share my thoughts often at [Warpcast](https://warpcast.com/m0nt0y4) and [Twitter](https://twitter.com/MidwitMilhouse)
 - 🖼️ I am an on-chain NFT creator, my latest project is [Chublins](https://chublins.com/), both the [project](https://github.com/Montoya/chublins) and [website](https://github.com/Montoya/chublins-website) are open-source
 - 🎶 I make music and DJ as [Miami Slice](https://soundcloud.com/miamislice)
