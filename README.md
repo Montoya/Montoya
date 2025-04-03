@@ -7,3 +7,4 @@
 - 💬 I share my thoughts often at [Warpcast](https://warpcast.com/m0nt0y4) and [X](https://x.com/MidwitMilhouse)
 - 🖼️ I am an onchain NFT creator, my latest project is [Chublins](https://chublins.com/), both the [project](https://github.com/Montoya/chublins) and [website](https://github.com/Montoya/chublins-website) are open-source
 - 🎶 I make music and DJ as [Miami Slice](https://soundcloud.com/miamislice)
+- ✍️ On rare occassions I also write at [Medium](https://medium.com/@decktonic)
